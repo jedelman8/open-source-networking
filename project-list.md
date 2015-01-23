@@ -1,5 +1,6 @@
 # Open Source Networking Projects
-Brief description of open source networking projects.  This list was originally posted at http://www.jedelman.com/home/open-source-networking.  The goal is to make this an evolving community driven list.  Feel free to issue a pull request to make any change to the existing list or add net new projects.  
+
+Feel free to issue a pull request to make any change to the existing list or add net new projects.
 
 **Note: Please keep the descriptions concise and also include a link if you are going to add a project.**
 
@@ -65,4 +66,4 @@ New onto the network scene, SocketPlane and Weave are building open source netwo
 #### [Ansible](http://www.ansible.com/home), [Puppet](http://puppetlabs.com/), [Chef](https://www.chef.io/), [SaltStack](http://www.saltstack.com/), etc.
 Here is an increasing amount of open source automation and configuration management tools that have been around for quite some time, but we’re just starting to see what kind of impact and what the integrations will look like for the network community
 
-And we can’t forget about [OpenNMS](http://www.opennms.org/), [Zenoss Core](http://www.zenoss.org/), [Nagios Core](http://www.nagios.org/projects/), etc.  If you want to add more to this list, feel free to write in or comment below.  
+And we can’t forget about [OpenNMS](http://www.opennms.org/), [Zenoss Core](http://www.zenoss.org/), [Nagios Core](http://www.nagios.org/projects/), etc.  If you want to add more to this list, feel free to write in or comment below.
