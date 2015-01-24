@@ -52,6 +52,9 @@ Similar to Quagga, it is an open source routing platform for Linux systems.  In 
 ### [Snort](https://www.snort.org/)
 Many are aware of Snort, but it’s an open source IDS/IPS; its commercial version came via SourceFire, a company which Cisco acquired in 2013.
 
+### [ExaBGP](https://github.com/Exa-Networks/exabgp)
+ExaBGP is an application designed to provide an easy way for programmers and system admistrators to interact with BGP networks. The program is designed to allow the injection of arbitrary routes into a network, including IPv6 and FlowSpec. A common use case is to run ExaBGP on a server, create high availability architectures, anycasting, load balancer replacement and more.
+
 #### There are plenty more open source projects that will directly impact networking too.  A few of them include:
 
 #### [OpenFlow controller](http://yuba.stanford.edu/~casado/of-sw.html)
