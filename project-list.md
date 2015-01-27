@@ -55,6 +55,17 @@ Many are aware of Snort, but it’s an open source IDS/IPS; its commercial versi
 ### [ExaBGP](https://github.com/Exa-Networks/exabgp)
 ExaBGP is an application designed to provide an easy way for programmers and system admistrators to interact with BGP networks. The program is designed to allow the injection of arbitrary routes into a network, including IPv6 and FlowSpec. A common use case is to run ExaBGP on a server, create high availability architectures, anycasting, load balancer replacement and more.
 
+### [Open Networking Lab](http://onlab.us/mission/) / [Open Networking Research Center](http://onrc.stanford.edu/) (ONRC Stanford)
+
+#### [Open Networking Operating System (ONOS)](http://onosproject.org/)
+Introduced in late 2014, ONOS is a new open source entrant into the SDN controller space. It has the backing of primarily service providers and is intended to be "carrier grade". It includes some interesting distributed systems components such as [Apache Zookeeper](https://zookeeper.apache.org/) for leader election, coordindation and consensus and [Titan](https://thinkaurelius.github.io/titan/) for the graph database. Competes with OpenDaylight.
+
+#### [OpenVirtX (OVX)](http://ovx.onlab.us/)
+A network virtualization platform that sits beneath an Openflow controller and the physical network.
+
+#### [Mininet](http://mininet.org/)
+A network simulator for SDN research and education. Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native) for interactively testing networking software.
+
 #### There are plenty more open source projects that will directly impact networking too.  A few of them include:
 
 #### [OpenFlow controller](http://yuba.stanford.edu/~casado/of-sw.html)
